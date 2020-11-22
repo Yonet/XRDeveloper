@@ -1,0 +1,12 @@
+{
+  "name": "learn-webxr",
+  "version": "1.0.0",
+  "description": "WebXR Workshop repo",
+  "main": "index.js",
+  "author": "Ayşegül Yönet",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
